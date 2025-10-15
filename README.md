@@ -1,4 +1,4 @@
-# Marketing Data Science Quick-Track Labs
+
 
 This repo contains a sequence of eight concise, runnable **Jupyter notebooks** to learn practical **marketing analytics, econometrics, and causal inference** with toy datasets. Each notebook is self-contained—open, run all cells, and explore.
 
