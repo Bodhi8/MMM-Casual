@@ -2,7 +2,7 @@
 
 This repo contains a sequence of eight concise, runnable **Jupyter notebooks** to learn practical **marketing analytics, econometrics, and causal inference** with toy datasets. Each notebook is self-contained—open, run all cells, and explore.
 
-## Learning Sequence (Run Order)
+ (Run Order)
 
 1. **`01_mmm_intro.ipynb`** — Intro to Media Mix Modeling (MMM) with adstock & saturation. *Key concepts:* regression, ROI estimation.
 2. **`02_mmm_fundamentals_tuning.ipynb`** — MMM fundamentals and adstock tuning. *Key concepts:* model fit, parameter search.
